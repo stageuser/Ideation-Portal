@@ -22,7 +22,7 @@ Projects often have a community around them, made up of other users in different
 
 Process
 -----
-Follow wiki documentation for [Process Overview](https://github.com/CSC-ORG/Ideation-Portal/wiki/Installation-%28Overview%29)
+Follow wiki documentation for [Process Overview](https://github.com/CSC-ORG/Ideation-Portal/wiki/Process-Overview)
 
 -----
 Installation
